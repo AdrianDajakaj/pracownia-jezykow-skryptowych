@@ -1,0 +1,15 @@
+[submodule "projects/bash-tic-tac-toe"]
+	path = projects/bash-tic-tac-toe
+	url = https://github.com/AdrianDajakaj/bash-tic-tac-toe.git
+[submodule "projects/python-restaurant-chatbot"]
+	path = projects/python-restaurant-chatbot
+	url = https://github.com/AdrianDajakaj/python-restaurant-chatbot.git
+[submodule "projects/js-minecraft-castle"]
+	path = projects/js-minecraft-castle
+	url = https://github.com/AdrianDajakaj/js-minecraft-castle.git
+[submodule "projects/ruby-amazon-crawler"]
+	path = projects/ruby-amazon-crawler
+	url = https://github.com/AdrianDajakaj/ruby-amazon-crawler.git
+[submodule "projects/lua-love2d-tetris"]
+	path = projects/lua-love2d-tetris
+	url = https://github.com/AdrianDajakaj/lua-love2d-tetris.git
